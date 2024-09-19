@@ -1,0 +1,20 @@
+{
+  "name": "React Material Minimall UI",
+  "short_name": "Minimall-UI",
+  "display": "standalone",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/journalindexing-38ac8.appspot.com/o/logo%2Fiji%20logo.png?alt=media&token=cbf97a45-70d7-48aa-ba08-89dab7545cfb",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/journalindexing-38ac8.appspot.com/o/logo%2Fiji%20logo.png?alt=media&token=cbf97a45-70d7-48aa-ba08-89dab7545cfb",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
